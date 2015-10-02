@@ -1,0 +1,9 @@
+.DS_Store
+config.ls
+coverage/
+node_modules/
+test/
+*.ls
+*.sublime-project
+*.sublime-workspace
+karma.conf.js

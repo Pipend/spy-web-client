@@ -1,0 +1,26 @@
+{
+  "name": "spy-web-client",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/karma start --browsers Firefox --single-run"
+  },
+  "author": "Furqan Zafar",
+  "devDependencies": {
+    "brfs": "^1.4.1",
+    "gulp-livescript": "^2.4.0",
+    "jsdom": "^3.1.2",
+    "karma": "^0.13.10",
+    "karma-browserify": "^4.4.0",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-coverage": "^0.5.2",
+    "karma-firefox-launcher": "^0.1.6",
+    "karma-live-preprocessor": "^0.2.2",
+    "karma-mocha": "^0.2.0",
+    "liveify": "^2.0.0",
+    "livescript": "^1.4.0",
+    "mocha": "^2.3.3",
+    "sinon": "^1.17.1"
+  }
+}
