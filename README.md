@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.org/Pipend/spy-web-client.svg)](https://travis-ci.org/Pipend/spy-web-client)
 
 # spy-web-client
+
 client-side library for recording events to [spy-server](https://github.com/pipend/spy-server)
 
 ## Installation

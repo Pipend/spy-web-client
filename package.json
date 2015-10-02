@@ -1,12 +1,17 @@
 {
   "name": "spy-web-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/karma start --browsers Firefox --single-run"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pipend/spy-web-client"
+  },
   "author": "Furqan Zafar",
+  "keywords": ["event", "analytics", "recording", "spy", "tracking", "pixel"],
   "devDependencies": {
     "brfs": "^1.4.1",
     "gulp": "^3.9.0",
